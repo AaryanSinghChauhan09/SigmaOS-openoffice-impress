@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_openoffice_impress"
+version = "0.1.0"
+edition = "2021"
+description = "OpenOffice Impress presentation generator, slide master, and transitions manager"
+
+[lib]
+name = "sigmaos_openoffice_impress"
+path = "src/lib.rs"
